@@ -1,0 +1,23 @@
+# Compiled Java class files
+bin/
+*.class
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Temporary/OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Internal guides and notes (excluded from repository)
+VIDEO_SCRIPT_AND_VIVA_GUIDE.md
+setup_git.ps1
+NEWREADME.md
+CIT300_Graded_Practical_Assignment_2.pdf
+*.pdf
